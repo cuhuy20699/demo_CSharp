@@ -11,11 +11,13 @@ namespace FormQL_SinhVien
         private string database;
         private string uid;
         private string password;
+        private string test;
 
         public Program()
         {
             initilizer();
         }
+
 
         private void initilizer()
         {
